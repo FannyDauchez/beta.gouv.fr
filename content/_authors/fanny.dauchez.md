@@ -2,10 +2,10 @@
 fullname: Fanny Dauchez
 role: Chargée de déploiement
 missions:
-  - start: 2020-09-01
-    end: 2020-12-31
-    status: independent
+  - start: 2021-01-04
+    end: 2021-06-30
+    status: contractuel
 startups:
     - itou
-    - place-de-marche-inclusion
+    - Le-Marche-inclusion
 ---
